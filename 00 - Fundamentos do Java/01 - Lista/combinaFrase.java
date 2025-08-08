@@ -7,8 +7,8 @@ public class combinaFrase {
     public static void main(String[] args) {
         
         String nome = "Jurupebas";
-        byte idade = 80;
-        int salario = 1532;
+        int idade = 80;
+        double salario = 1532.00;
 
         System.out.println();
         System.out.println("Olá, " + nome + "! Você tem " + idade + " anos e seu salário é de: " + salario);
